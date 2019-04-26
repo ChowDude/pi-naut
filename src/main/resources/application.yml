@@ -1,5 +1,9 @@
 micronaut:
   application:
-    name: pi-naut
+    name: pi-dev-day
   server:
-    port: 8008
+    port: 3250
+
+github:
+  user: ChowDude
+  token: 2cb9e3f490f4bb062eb7eb42340fcb1cf468a098
